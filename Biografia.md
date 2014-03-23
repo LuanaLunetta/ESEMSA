@@ -1,4 +1,5 @@
 #GIUSEPPE SILVI - Tivoli (RM), 1981
+**da sistemare**
 
 Giuseppe Silvi si diploma in Musica Elettronica nel 2013, presso il Conservatorio “S. Cecilia” di Roma con Giorgio Nottoli.
 
