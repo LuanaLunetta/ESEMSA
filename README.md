@@ -74,17 +74,17 @@ La registrazione delle coppie stereofoniche è avvenuta il giorno 2 aprile 2014 
 
 ### Audio Files
 
-[ESEMSA 2014 Stereo Pairs - prima parte]()
-[ESEMSA 2014 Stereo Pairs - seconda parte]()
-[ESEMSA 2014 Ambisonic Pairs]()
+* [ESEMSA 2014 Stereo Pairs - prima parte]()
+* [ESEMSA 2014 Stereo Pairs - seconda parte]()
+* [ESEMSA 2014 Ambisonic Pairs]()
 
 ### Stereo Pairs 2009 - Materiali
 
 I materiali del 2009 sono una alternativa a quelli registrati in aula T25. Sono stati registrati presso il conservatorio Santa Cecilia di Roma nel 2009. [Breve relazione](https://www.academia.edu/6599711/Stereo_Pairs_-_2009).
 
-[Stereo Pairs 2009 - Audio Files Session One](http://www.giuseppesilvi.com/__depot/2009_STEREOPAIRS/AUDIOFILES/SESSION0NE.zip)
-[Stereo Pairs 2009 - Audio Files Session Two](http://www.giuseppesilvi.com/__depot/2009_STEREOPAIRS/AUDIOFILES/SESSIONTWO.zip)
-[Stereo Pairs 2009 - DVD](http://www.giuseppesilvi.com/__depot/2009_STEREOPAIRS/STEREO_PAIRS_2009_DVD.zip)
+* [Stereo Pairs 2009 - Audio Files Session One](http://www.giuseppesilvi.com/__depot/2009_STEREOPAIRS/AUDIOFILES/SESSION0NE.zip)
+* [Stereo Pairs 2009 - Audio Files Session Two](http://www.giuseppesilvi.com/__depot/2009_STEREOPAIRS/AUDIOFILES/SESSIONTWO.zip)
+* [Stereo Pairs 2009 - DVD](http://www.giuseppesilvi.com/__depot/2009_STEREOPAIRS/STEREO_PAIRS_2009_DVD.zip)
 
 ##Testi
 Dispense a cura del docente.
