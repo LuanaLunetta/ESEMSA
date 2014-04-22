@@ -76,7 +76,7 @@ La registrazione delle coppie stereofoniche è avvenuta il giorno 2 aprile 2014 
 
 
 * [ESEMSA 2014 Stereo Pairs - prima parte](http://www.giuseppesilvi.com/__depot/Audio%20Files/ESEMSA_2014_StereoPairs_2448_part1.zip)
-* [ESEMSA 2014 Stereo Pairs - seconda parte](ftp://www.giuseppesilvi.com/__depot/Audio%20Files/ESEMSA_2014_StereoPairs_2448_part2.zip)
+* [ESEMSA 2014 Stereo Pairs - seconda parte](http://www.giuseppesilvi.com/__depot/Audio%20Files/ESEMSA_2014_StereoPairs_2448_part2.zip)
 * [ESEMSA 2014 Ambisonic Pairs](http://www.giuseppesilvi.com/__depot/Audio%20Files/ESEMSA_2014_AmbiPairs_2448.zip)
 
 
