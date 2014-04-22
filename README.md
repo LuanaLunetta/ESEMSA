@@ -86,5 +86,9 @@ I materiali del 2009 sono una alternativa a quelli registrati in aula T25. Sono 
 * [Stereo Pairs 2009 - Audio Files Session Two](http://www.giuseppesilvi.com/__depot/2009_STEREOPAIRS/AUDIOFILES/SESSIONTWO.zip)
 * [Stereo Pairs 2009 - DVD](http://www.giuseppesilvi.com/__depot/2009_STEREOPAIRS/STEREO_PAIRS_2009_DVD.zip)
 
+## Esame Orale
+
+Per l'esame orale si consiglia la redazione di un breve documento su uno degli argomenti affrontati a lezione. Nel caso in cui si scelga di trattare le coppie stereofoniche si consiglia di caricare i file relativi alle singole configurazioni su un editor multitraccia e ascoltarene una alla volta prendendo nota delle considerazioni personali.
+
 ##Testi
 Dispense a cura del docente.
