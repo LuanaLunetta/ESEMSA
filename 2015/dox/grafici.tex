@@ -1,0 +1,16 @@
+\documentclass[tikz,11pt,border=10pt]{standalone}
+%\documentclass[a4paper]{article}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{polar}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows}
+
+\usepackage{pgfplots}
+\pgfplotsset{/pgf/number format/use comma,compat=newest}
+
+\begin{document}
+
+\begin{tikzpicture}\begin{polaraxis}[smooth]\addplot coordinates{(0, 1) (45, 1) (90, 1) (135, 1) (180, 1) (225, .5) (270, 0) (315, 0.5) (360, 1)};\end{polaraxis}\end{tikzpicture}
+
+\end{document}
